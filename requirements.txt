@@ -1,0 +1,9 @@
+ipython
+pandas
+numpy
+scikit-learn
+tensorflow
+catboost
+xgboost
+scikeras
+keras
